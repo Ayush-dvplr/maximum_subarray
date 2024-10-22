@@ -39,3 +39,8 @@ Open the `index.html` file in your browser.
 1. Enter size of the array: `5`
 2. Enter elements: `2, -3, 4, -1, 2`
 3. Click "Find Maximum Subarray Sum" and it will display: `Maximum Subarray Sum is: 5`.
+
+## Screenshot
+Here’s how the application looks:
+
+![Screenshot](https://res.cloudinary.com/dsprifizw/image/upload/v1729573672/maximum_subarray.png)
